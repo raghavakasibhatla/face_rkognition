@@ -8,7 +8,7 @@ docutils==0.14
 jmespath==0.9.3
 prompt-toolkit==1.0.15
 pyasn1==0.3.6
-Pygments==2.2.0
+Pygments==2.7.4
 python-dateutil==2.6.1
 PyYAML==3.12
 rsa==3.4.2
